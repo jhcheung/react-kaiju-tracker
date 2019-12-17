@@ -23,6 +23,18 @@
       "name": "Gidorah",
       "power": "Lightning breath",
       "image": "https://i.ebayimg.com/images/g/kskAAOSwp2VdldA4/s-l640.jpg"
+    },
+    {
+      "name": "Jimmy Johnsssss",
+      "power": "heroes",
+      "image": "https://www.jimmyjohns.com/images/About_Us/Our_Owner_Founder/Jimmy-John%27s-Owner.jpg",
+      "id": 5
+    },
+    {
+      "name": "mothra2",
+      "power": "weirdo",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61Jp8FUo27L._SX466_.jpg",
+      "id": 6
     }
   ],
   "sightings": [
@@ -31,6 +43,18 @@
       "kaijuId": 1,
       "location": "Tokyo",
       "description": "Oh no! There goes Tokyo! Go go Godzilla!"
+    },
+    {
+      "kaijuId": 2,
+      "location": "NYC",
+      "description": "Mothra is rad!",
+      "id": 2
+    },
+    {
+      "kaijuId": 2,
+      "location": "Japan",
+      "description": "Mothra destroys Hokkaido",
+      "id": 3
     }
   ]
 }
